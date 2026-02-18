@@ -143,12 +143,9 @@ Focus on service quality to increase customer satisfaction
 
 📷 Dashboard Preview
 
-(Add your dashboard screenshots below)
+(uber analysis dashboard screenshots below)
 <img width="1469" height="995" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/dca2a500-1969-48e3-a4c4-48eafdd30909" />
 <img width="1501" height="1200" alt="image" src="https://github.com/user-attachments/assets/3ae151da-bfd8-4315-b073-a4f0eff037c3" />
-
-![Business Performance Dashboard](dashboard1.png)
-![Ride & Customer Analysis Dashboard](dashboard2.png)
 
 🚀 Conclusion
 
